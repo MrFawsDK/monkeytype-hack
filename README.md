@@ -1,4 +1,4 @@
-# MonkeyHack
+# Monkeytype - Hack
 
 A small Python and Selenium project that reads the active words on a typing test and automatically types them in Google Chrome.
 
